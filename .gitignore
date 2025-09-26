@@ -2,5 +2,5 @@
 **/*-backups
 **/*.log
 **/*.bak
-**/*.prl
+**/*_prl
 **/*-cache
